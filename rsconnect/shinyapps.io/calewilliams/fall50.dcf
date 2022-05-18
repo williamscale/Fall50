@@ -1,0 +1,14 @@
+name: fall50
+title:
+username:
+account: calewilliams
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6290098
+bundleId: 5919314
+url: https://calewilliams.shinyapps.io/fall50/
+when: 1652884663.4075
+lastSyncTime: 1652884663.4075
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: easytoweast_2020.R|fall50_2021.R
